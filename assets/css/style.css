@@ -24,4 +24,8 @@
       margin-top: 10px;
   }
 
-  
+  #contact-pg-bg {
+    background-image: url(/assets/img/eoghan-sitting-in-croke-park-on-a-job.JPG);
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+  }
