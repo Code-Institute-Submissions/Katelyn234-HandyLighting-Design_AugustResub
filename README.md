@@ -29,6 +29,55 @@
 
 <p>Creative Agencies most likely require downloadable information, such a PDF resume. Whereas Creative Individuals will be looking for examples of creative expression.</p>
 
-<h2>Structure</h2>
+<h3>Structure</h3>
 
-<p>The landing page of the website is designed to establish the who the site is about and what they do. The About page is an opportunity to express a 'sense of self' on the site while also informing about work ethics and ethos. The Portfolio follows the About to further reiterate work style and passion. This is followed by more detailed information on previous works and a downoadable Resume, 
+<p>The landing page of the website is designed to establish the who the site is about and what they do. The About page is an opportunity to express a 'sense of self' on the site while also informing about work ethics and ethos. The Portfolio follows the About to further reiterate creative style and passion. This is followed by more detailed information on previous works and a downoadable Resume, and finally links to follow Eoghan's Social Medias. </p>
+
+<p>The Gallery page is compiled of at-work stills, behind the scenes stills etc. to futher reinforce Eoghan's brand. 
+
+The Contact Page aims to encourage people to engage with Eoghan by pitching their project. This enables Eoghan to streamline his decision process on taking on new projects.</p>
+
+<h3>Skeleton</h3>
+    <ul>
+        <li>Desktop Wireframe PDF</li>
+        <li>Mobile Wireframe PDF</li>
+    </ul>
+
+<h3>Surface</h3>
+<p>The grayscale theme was chosen for this project to illustrate the contrast between the light and dark, a most appropriate theme for a lighting designers website.</p>
+
+<hr>
+
+<h2>Features</h2>
+
+<h3>Existing Features</h3>
+	<ul>
+		<li>Specifics</li>
+		<li>Features</li>
+		<li>On site</li>
+	</ul>
+
+<h3>Future Features</h3>
+	<ul>
+		<li>Specifics</li>
+		<li>Features</li>
+		<li>To implement</li>
+	</ul>
+
+<hr>
+
+<h2>Testing</h2>
+
+<hr>
+
+<h2>Deployment</h2>
+
+<hr>
+
+<h2>Credits</h2>
+
+<hr>
+
+<h2>Notes</h2>
+
+<hr>
