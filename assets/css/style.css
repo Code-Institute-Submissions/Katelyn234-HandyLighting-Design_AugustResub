@@ -4,17 +4,22 @@
     bottom: 0;
     width: 100%;
     background-color: darkslategrey;
-    color: whitesmoke;
+    color: lightgray;
     text-align: center;
   }
 
   a {
-    color: whitesmoke;
+    color: lightgray;;
     text-decoration: none;
   }
 
   a:hover {
-    color: whitesmoke;
+    color: lightgray;;
     text-decoration: underline;
     text-transform: uppercase;
+  }
+
+  .footer-p {
+      font-size: x-small;
+      margin-top: 10px;
   }
