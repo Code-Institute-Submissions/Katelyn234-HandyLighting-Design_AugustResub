@@ -7,3 +7,14 @@
     color: whitesmoke;
     text-align: center;
   }
+
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: whitesmoke;
+    text-decoration: underline;
+    text-transform: uppercase;
+  }
