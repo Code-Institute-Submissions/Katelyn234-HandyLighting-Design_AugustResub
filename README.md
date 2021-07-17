@@ -66,6 +66,10 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 
 <hr>
 
+<h2>Technologies</h2>
+
+<hr>
+
 <h2>Testing</h2>
 
 <hr>
