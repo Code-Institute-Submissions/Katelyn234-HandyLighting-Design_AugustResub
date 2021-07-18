@@ -24,8 +24,10 @@
       margin-top: 10px;
   }
 
-  #contact-pg-bg {
-    background-image: url(/assets/img/eoghan-sitting-in-croke-park-on-a-job.JPG);
+  #contact-page {
+    background-image: url(../img/eoghan-in-croke-park.jpg);
+    background-position: center;
+    height: 700px;
     background-size: cover;
-    background-repeat: no-repeat, repeat;
+    background-repeat: no-repeat;
   }
