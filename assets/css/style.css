@@ -55,3 +55,20 @@ body {
   h1 {
     text-align: center;
   }
+
+  input {
+    width: 100%;
+    margin-bottom: 100px;
+  }
+
+  input[type=text] {
+    border: none;
+    border-bottom: 2px solid #000;
+  }
+
+  input[type=email] {
+    border: none;
+    border-bottom: 2px solid #000;
+  }
+
+  
