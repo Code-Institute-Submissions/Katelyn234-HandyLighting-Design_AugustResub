@@ -1,3 +1,8 @@
+body {
+  color: #666666;
+  font-family: 'Encode Sans SC', sans-serif;
+}
+
 .footer {
     position: fixed;
     left: 0;
@@ -23,7 +28,7 @@
       font-size: x-small;
       margin-top: 10px;
   }
-
+/**CONTACT PACE**/
   #contact-page {
     background-image: url(../img/eoghan-in-croke-park.jpg);
     background-color: #666666;
@@ -31,4 +36,22 @@
     height: 700px;
     background-size: cover;
     background-repeat: no-repeat;
+  } 
+  
+  #contact-form {
+    color: darkslategrey;
+    margin: auto;
+    margin-top: 150px;
+  }
+
+  .contact-form-boxed {
+    border: #000000;
+    border-style: solid;
+    background-color: whitesmoke;
+    opacity: 0.8;
+    padding: 30px;
+  }
+
+  h1 {
+    text-align: center;
   }
