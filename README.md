@@ -59,7 +59,7 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 
 <h3>Future Features</h3>
 	<ul>
-		<li>Specifics</li>
+		<li>Add a "Request a call back" section to the contact page. Customers input their email address and "request a call back button" and receive and email with Eoghan's Calendly. link</li>
 		<li>Features</li>
 		<li>To implement</li>
 	</ul>
