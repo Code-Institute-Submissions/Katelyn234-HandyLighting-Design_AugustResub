@@ -15,35 +15,23 @@ h2 {
   font-size: smaller;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #333;
-    color: lightgray;
-    text-align: center;
-  }
+.landingpage {
+  background-image: url(../img/studio-with-lights.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  
+}
 
-  a {
-    color: lightgray;;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: lightgray;;
-    text-decoration: underline;
-    text-transform: uppercase;
-  }
-
-  .footer-items {
-      font-size: x-small;
-      margin-top: 10px;
-  }
 /**CONTACT PAGE**/
   #contact-page {
     background-image: url(../img/eoghan-in-croke-park.jpg);
-    background-color: #666666;
+    background-attachment: fixed;
+    background-color: #ccc;
     background-position: center;
     height: 700px;
     background-size: cover;
@@ -107,6 +95,8 @@ h2 {
 
 textarea {
   width: 100%;
+  padding: 12px;
+  border: 2px solid #000;
 }
 
 input[type="submit"] {
@@ -123,7 +113,33 @@ input[type="submit"]:hover {
   color: #333;
   border: 2px solid #333;
 }
+/**FOOTER**/
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: lightgray;
+  text-align: center;
+}
+
+a {
+  color: lightgray;;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgray;;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.footer-items {
+    font-size: x-small;
+    margin-top: 10px;
+}
 
 
 
