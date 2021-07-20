@@ -14,8 +14,8 @@ h2 {
   text-align: center;
   font-size: smaller;
 }
-
-.landingpage {
+/**LANDING PAGE**/
+#landingpage {
   background-image: url(../img/studio-with-lights.jpeg);
   background-position: center;
   background-repeat: no-repeat;
@@ -23,8 +23,13 @@ h2 {
   background-size: cover;
   height: 100vh;
   width: 100vw;
+}
+
+.landingpage-text {
+  padding: 100px;
   text-align: center;
-  
+  font-size: 4em;
+  font-weight: 500;
 }
 
 /**CONTACT PAGE**/
