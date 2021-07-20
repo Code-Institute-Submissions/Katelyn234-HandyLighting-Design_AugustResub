@@ -51,19 +51,19 @@
     <div class="row">
       <div class="col-md-4 contact-form-boxed" id="contact-form">
         <h1>Contact Me</h1>
-        <h2>Got a cool project in mind? Why not tell me about it?</h2>
+        <p>Got a cool project in mind? Why not tell me about it?</p>
         <br>
         <form action="http://www.sendmydatahere.com" method="POST">
           <label for="name">Your Name:</label>
-          <input type="text" id="name" name="name" value="name">
+          <input type="text" id="name" name="name" placeholder="Name">
           <br>
           
           <label for="email">Your Email:</label>
-          <input type="email" id="email" name="email" value="Enter Email">
+          <input type="email" id="email" name="email" placeholder="Email">
           <br>
 
-          <label for="message">Your Message:</label>
-          <input type="text" id="message" name="message" value="Tell me about your ideas, or if you have any other enquires, feel free to reach out">
+          <textarea id="subject" name="subject" placeholder="Tell me about your ideas, or if you have any other enquires, feel free to reach out" style="height:200px"></textarea>
+          
           <br>
 
           <input type="submit" id="submit">

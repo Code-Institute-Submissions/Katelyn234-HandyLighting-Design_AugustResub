@@ -71,6 +71,7 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
         <li>This project was written using HTML and CSS languages.</li>
         <li>The project uses <a href="https://getbootstrap.com/">Bootstrap v5.0.2.</a></li>
         <li><a href="https://fontawesome.com/">Font Awesome</a> has been used for icons in the footer.</li>
+        <li>This project uses <a href="https://fonts.google.com/specimen/Encode+Sans+SC?query=encode">Google Fonts (Encode Sans SC)</a></li>
         <li>Wireframes were drawn using <a href="https://concepts.app/en/">iOS Concept App</a></li>
     </ul>
 <hr>
