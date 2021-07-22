@@ -3,17 +3,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-h1 {
-  color: #666666;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-h2 {
-  color: #666666;
-  text-align: center;
-  font-size: smaller;
-}
 /**LANDING PAGE**/
 #landingpage {
   background-image: url(../img/studio-with-lights.jpeg);
@@ -25,13 +14,38 @@ h2 {
   width: 100vw;
 }
 
-.landingpage-text {
-  padding: 100px;
+#landingpage-text h1, h2, h3 {
+  font-weight: bolder;
   text-align: center;
-  font-size: 4em;
-  font-weight: 500;
+  padding: 10px;
+  text-align: center;
 }
 
+#landingpage-text h1 {
+  color: #666;
+  text-transform: uppercase;
+  font-size: 6rem;
+}
+
+#landingpage-text h2 {
+  color: #666;
+  font-size: 3rem;
+}
+
+#landingpage-text h3 {
+  color: #666;
+  font-size: 1.5rem;
+}
+
+#landingpage-text {
+  margin-top: 150px;
+}
+/** ABOUT SECTION**/
+
+#about-content {
+  margin: 75px;
+  background-color: #7e7e7e; 
+}
 /**CONTACT PAGE**/
   #contact-page {
     background-image: url(../img/eoghan-in-croke-park.jpg);
