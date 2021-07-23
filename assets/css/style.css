@@ -52,6 +52,9 @@ body {
 /**SHOWREEL**/
 #showreel {
   background-color: #eee;
+  padding: 50px;
+  border: 1px solid #333;
+  margin: 50px;
 }
 /**CONTACT PAGE**/
   #contact-page {
