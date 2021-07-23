@@ -73,6 +73,8 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
         <li><a href="https://fontawesome.com/">Font Awesome</a> has been used for icons in the footer.</li>
         <li>This project uses <a href="https://fonts.google.com/specimen/Encode+Sans+SC?query=encode">Google Fonts (Encode Sans SC)</a></li>
         <li>Wireframes were drawn using <a href="https://concepts.app/en/">iOS Concept App</a></li>
+        <li><a href="https://imagecolorpicker.com/">Image Color Picker</a> was used to match backgrounds to images</li>
+        <li><a href="https://photoeditor.polarr.co/">Polarr</a> was the photo editor used to adjust all raw images</li>
     </ul>
 <hr>
 
