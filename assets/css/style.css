@@ -208,6 +208,11 @@ a:hover {
     margin-bottom: 10px;
 }
 
-
+/**GALLERY**/
+#gallery {
+  font-size: xx-large;
+  margin-top: 75px;
+  color: #000;
+}
 
   
