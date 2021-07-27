@@ -58,8 +58,30 @@ body {
 
 /**SHOWREEL**/
 #showreel {
-  padding: 50px;
+  padding: 100px;
   background-color: #333;
+}
+
+/**EXPERIENCE**/
+#experience {
+  height: auto;
+  background-image: url(../img/allofthelights.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 1000px;
+}
+
+#experience-boxed {
+  margin: 75px;
+  border: 1px solid #000;
+  background-color: #ccc;
+  padding: 40px;
+}
+
+#jobs {
+  padding: 10px;
 }
 
 /**CONTACT PAGE**/
@@ -67,7 +89,7 @@ body {
     background-image: url(../img/eoghan-in-croke-park.jpg);
     background-attachment: fixed;
     background-color: #ccc;
-    background-position: center;
+    background-position: top;
     height: 700px;
     background-size: cover;
     background-repeat: no-repeat;
