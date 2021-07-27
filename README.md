@@ -1,6 +1,9 @@
 <h1>Eoghan Hand</h1>
 <h2>Lighting Designer for Broadcast, Film and Video</h2>
-<p>This portfolio website is designed to showcase the skills of Irish Lighting Designer, Eoghan Hand. Eoghan works mostly in broadcast, film and video and the aim of this site is to present his skills, passion and experience for this area to potential employmers and other creative minds he will collaborate with.</p>
+<p>This portfolio website is designed to showcase the skills of Irish Lighting Designer, Eoghan Hand. Eoghan works mostly in broadcast, film and video and the aim of this site is to present his skills, passion and experience for this area to potential employmers and other creative minds he will collaborate with.
+
+View deployed site here: |[Handy Lighting Design](https://katelyn234.github.io/HandyLighting-Design/)|
+</p>
 
 <h2>UX</h2>
 <h3>User Stories</h3>
@@ -79,7 +82,7 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 <hr>
 
 <h2>Testing</h2>
-
+<p>View Testing.md file [here](</p>
 <hr>
 
 <h2>Deployment</h2>
