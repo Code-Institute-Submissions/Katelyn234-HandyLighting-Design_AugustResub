@@ -23,7 +23,7 @@ body {
   font-weight: bolder;
   text-align: center;
   padding: 10px;
-  color: #666;
+  color: #333;
   text-transform: uppercase;
   margin-top: 200px;
   bottom: 300px;
@@ -34,7 +34,7 @@ body {
 }
 
 .muted {
- color: #999999;
+ color: #666;
 }
 
 #landingpage-text h2 {
