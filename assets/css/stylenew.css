@@ -210,9 +210,21 @@ a:hover {
 
 /**GALLERY**/
 
-#gallery img {
-  width: 100%;
+#gallery {
+  margin-top: 75px;
+}
+
+.img-area{
+  overflow: hidden;
   position: relative;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-inline-flexbox;
+  display: -o-flex;
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: center;
+  align-items: center;
 }
 
   
