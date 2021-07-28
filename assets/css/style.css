@@ -115,12 +115,28 @@ button:hover {
   padding: 100px;
 }
 
-.icon {
-  font-size: 6rem;
-  padding: 50px;
+#socialmedia {
   text-align: center;
 }
 
+.icon {
+  text-align: center;
+  font-size: 6rem;
+  padding: 50px;
+}
+
+@media screen and (max-width:768px){
+  .icon {
+    font-size: 3rem;
+    padding: 15px;
+  }
+}
+
+@media screen and (max-width:768px){
+  #socials {
+    padding: 50px;
+  }
+}
 /**CONTACT PAGE**/
   #contact-page {
     background-image: url(../img/eoghan-in-croke-park.jpg);
