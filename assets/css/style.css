@@ -100,10 +100,6 @@ body {
   overflow: hidden;
 }
 
-button:hover {
-  border: 5px solid #333;
-}
-
 .muted {
   color: #ccc;
 }
