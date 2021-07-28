@@ -265,6 +265,9 @@ a:hover {
   margin-bottom: 75px;
 }
 
+#gallery  h2{
+  padding: 25px;
+}
 .img-area{
   overflow: hidden;
   position: relative;
@@ -279,7 +282,11 @@ a:hover {
 }
 
 .img-area img {
- width: 100%;
+  width: 100%;
+  height: 400px;
 }
-
+.img-area img.large {
+  width: 100%;
+  height: 830px;
+}
   
