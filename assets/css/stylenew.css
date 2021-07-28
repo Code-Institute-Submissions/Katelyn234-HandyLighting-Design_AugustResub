@@ -212,6 +212,7 @@ a:hover {
 
 #gallery {
   margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 .img-area{
@@ -225,6 +226,10 @@ a:hover {
   margin-bottom: 30px;
   justify-content: center;
   align-items: center;
+}
+
+.img-area img {
+ width: 100%;
 }
 
   
