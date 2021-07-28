@@ -71,31 +71,40 @@ body {
 /**EXPERIENCE**/
 #experience {
   height: auto;
-  background-image: url(../img/allofthelights.jpeg);
+  background-image: url(../img/white-photo-studio.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  height: 1000px;
+  height: 100%;
 }
 
 #experience-boxed {
-  margin: 75px;
-  margin-bottom: 150px;
+  margin: 150px;
   border: 1px solid #000;
-  background-color: #ccc;
+  background-color: rgba(255, 255, 255, 0.9);
   padding: 40px;
   overflow: hidden;
 }
 
-@media screen and (min-width: 768px){
-  #experience-boxed {
-    margin: 40px;
-  }
-}
-
 #jobs {
   padding: 10px;
+}
+
+button {
+  border: 3px solid #333;
+  width: 100%;
+  height: 100px;
+  background-color: #7e7e7e;
+  overflow: hidden;
+}
+
+button:hover {
+  border: 5px solid #333;
+}
+
+.muted {
+  color: #ccc;
 }
 
 /**SOCIAL MEDIAS**/
@@ -107,9 +116,9 @@ body {
 }
 
 .icon {
-  align-items: center;
   font-size: 6rem;
   padding: 50px;
+  text-align: center;
 }
 
 /**CONTACT PAGE**/
