@@ -159,13 +159,10 @@ body {
     padding: 40px;
   }
 
-  .contact-form-boxed {
-    text-align: center;
-  }
-
   .contact-form-boxed h1 {
     text-transform: uppercase;
     font-weight: bold;
+    text-align: center;
   }
 
   input {
