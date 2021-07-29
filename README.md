@@ -87,7 +87,7 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
     <hr>
 
 <h2>Deployment</h2>
-
+    <p>This site was developed using <a href="http://gitpod.io">GitPod</a> and deployed using <a href="https://github.com/">GitHub.</p>
     <hr>
 
 <h2>Credits</h2>
@@ -118,12 +118,16 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 
 <h3>Code Credits</h3>
     <ul>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
+            <li>The gallery page was done by following the guide of @divnector in this <a href="https://www.youtube.com/watch?v=XRJq2gHZ0MU&t=164s">tutorial</a></li>
+            <li>This website uses Bootstrap excuted by following the guide of my mentor @AntonioRodriguez_mentor.</li>
         </ul>
     <hr>
+<h3>Acknowledgements</h3>
+    <ul>
+        <li>I'd like to acknowledge my mentor @AntonioRodriguez_mentor for their excellent mentoring skills, patience and positive reinforencement.</li>
+        <li>I'd also like to acknowledge my cohort facilitator @kasia_ci for their help and support with this project.</li>
+    </ul>    
 
 <h2>Notes</h2>
-
+    <p>I'd like to note that at the time of submission it is noticed that image "rollycamerawork.jpeg" in the gallery has an inherent border from the original image, time permitting an original copy of the image without the border would have been requested and replaced this image.</p>
 <hr>
