@@ -93,36 +93,27 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 <h2>Credits</h2>
     <h3>Photo Credits</h3>
         <ul>
-            <li>"white-photo-studio.jpeg" image downloaded from <a href="https://www.shutterstock.com/image-photo/interior-modern-photo-studio-chair-professional-793002787">Shutterstock</a></li>
-            <li>"studio-with-lights.jpeg" image downloaded from <a href="https://www.shutterstock.com/image-photo/empty-photo-studio-white-cyclorama-monoblocks-1894652761">Shutterstock</a></li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
+            <li>"white-photo-studio.jpeg" image downloaded from <a href="https://www.shutterstock.com/image-photo/interior-modern-photo-studio-chair-professional-793002787">Shutterstock.</a></li>
+            <li>"studio-with-lights.jpeg" image downloaded from <a href="https://www.shutterstock.com/image-photo/empty-photo-studio-white-cyclorama-monoblocks-1894652761">Shutterstock.</a></li>
+            <li>"crokepark.jpeg" image captured by Michael McCarthy.</li>
+            <li>"rollycamerawork.jpeg" image captured by Kevin Mulcahy.</li>
+            <li>"studiostill.jpeg" image captured by Edward O' Connor.</li>
+            <li>"eoghan-in-croke-park.jpeg" image captured by Michael McCarthy, editted by Katelyn Galvin."</li>
+            <li>"eoghan-headshot.jpeg" image captured by Michael McCarthy.</li>
+            <li>"nighttimeshoot.jpeg" image captured by Eoghan Hand.</li>
+            <li>"onset.jpeg" image captured by Ian Kennelly.</li>
+            <li>"setupstill.jpeg" image was captured by Ian Kennelly.</li>
+            <li>"outdoorsetups.jpeg" image was captured by Eoghan Hand.</li>
         </ul>
 
 <h3>Video Credits</h3>
         <ul>
-            <li>"allofthelights.jpeg"</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
-            <li>This project was written using HTML and CSS languages.</li>
+            <li><a href="https://www.youtube.com/watch?v=QHnO31wuns0&t=1s">Repak Ireland Commerical</a>courtesy of Stori Creative Production Company</li>
+            <li><a href="https://www.youtube.com/watch?v=UJY5IoMKj6g&t=3s">Rudimental's Straight From The Heart</a>courtesy of Taller Stories Production Company</li>
+            <li><a href="https://www.youtube.com/watch?v=wN5a0DvokjU">Robert Grace's Self</a>courtesy of Taller Stories Production Company</li>
+            <li><a href="https://www.youtube.com/watch?v=bzcC7WWbOpU&t=7s">Microsoft Interview with David Pollard</a>courtesy of Taller Stories Production Company</li>
+            <li><a href="https://www.youtube.com/watch?v=lXvYtzBRZWo">Microsoft Interview with Izzy's Wheels</a>courtesy of Taller Stories Production Company</li>
+            <li><a href="https://www.youtube.com/watch?v=-09W-f7UKfY">Supervalu sits down with David Gough</a>courtesy of Taller Stories Production Company</li>
         </ul>
 
 <h3>Code Credits</h3>
