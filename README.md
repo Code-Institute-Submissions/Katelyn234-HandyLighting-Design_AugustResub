@@ -4,6 +4,7 @@
 
 View deployed site here: |[Handy Lighting Design](https://katelyn234.github.io/HandyLighting-Design/)|
 </p>
+<p>Demo Screenshot</p>
 
 ![Demo Screenshot](assets/Wireframes/demo-screenshot.png)
 
@@ -102,7 +103,7 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
         <li>Copy your sites URL and paste to your README.md file</li>
     </ol>   
 
-<h3>How to run this project locally:</h3>
+<!--<h3>How to run this project locally:</h3>
 <h4>In order to clone this project from <a href="https://github.com/">GitHub</a> you'll need:</h4>
     <ol>
         <li>A <a href="https://github.com/">GitHub</a> account</li>
@@ -116,7 +117,7 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
         <li><a href="https://www.google.com/chrome/?brand=IBEF&gclsrc=aw.ds&gclid=CjwKCAjwgISIBhBfEiwALE19ScntT9AfO_NT-rdhELelak9BG26KQKCu-ChyVr4bxzWHbfBnbOhPyhoC9f4QAvD_BwE">Chrome Browser</a></li>
     </ol>
 <h4></h4>        
-    <hr>    
+    <hr>-->    
 
 <h2>Credits</h2>
 <h3>Content Credits</h3>

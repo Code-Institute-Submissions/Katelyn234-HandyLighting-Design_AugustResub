@@ -24,6 +24,37 @@
     <li>All videos loading and have controls easily accessible - no autoplay or pop ups</li>
     <li>PDF Download Button opens PDF in new browser tab for readabilty or download</li>
 </ul>
+<h3>Testing Process</h3>
+    <ul>
+        <li>Website was inspected across varying devices with different browsers to ensure responsivity</li>
+        <li> Mobile Index.html output </li>
+    
+![Index.html Mobile Output](assets/Wireframes/mobile-output-screenshot.png)
 
+<li>Desktop Index.html Output</li>
+
+![Index.html Desktop Output](assets/Wireframes/desktop-screenshot.png)
+
+<li>Mobile Gallery.html Output</li>
+
+![Gallery.html Mobile Output](assets/Wireframes/gallery.html-mobile-screenshot.png)
+
+<li>Desktop gallery.html Output</li>
+
+![Gallery.html Desktop Output](assets/Wireframes/gallery.html-desktop-screenshot.png)
+
+<li>Mobile Contact.html Output</li>
+
+![Contact.html Mobile Output](assets/Wireframes/contact.html-mobile-screenshot.png)
+
+<li>Desktop Contact.html Output</li>
+
+![Contact.html Desktop Output](assets/Wireframes/contact.html-desktop-screenshot.png)
+
+</ul>
 <h3>Unfixed Bugs</h3>
-    <p>At the time of submission it is noticed that image "rollycamerawork.jpeg" in the gallery has an inherent border from the original image, time permitting an original copy of the image without the border would have been requested and replaced this image.</p>
+    <ul>
+        <li>At the time of submission it is noticed that image "rollycamerawork.jpeg" in the gallery has an inherent border from the original image, time permitting an original copy of the image without the border would have been requested and replaced this image.</li>
+        <li>At the time of submission it is noticed that background image of the Recent Experience section is appearing as a repeat in screenshot from screenshot chrome extension, but appearing as cover in browser. Further investigation required.</li>
+        <li>At the time of submission it is noticed that submit button of the contact form leads to a broken link, due to not having styled an "success/acceptance" page. Further editting required.</li>
+    </ul>    
