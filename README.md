@@ -87,7 +87,16 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
     <hr>
 
 <h2>Deployment</h2>
-    <p>This site was developed using <a href="http://gitpod.io">GitPod</a> and deployed using <a href="https://github.com/">GitHub.</p>
+    <p>This site was developed using <a href="http://gitpod.io">GitPod</a> and commited and pushed to<a href="https://github.com/">GitHub using the Git Terminal in GitPod.</p>
+<h3>To deploy this page to GitHub the following steps were followed: 
+    <ol>
+        <li>On your GitHub repository, click on "Settings" tab.</li>
+        <li>Go to the "Pages" tab on the left-hand sidebar.</li>
+        <li>Under "Source" click the "None" dropdown and select the "main" or "master" branch</li>
+        <li>Click "Save"</li>
+        <li>The page will update and show: "Your site is ready to be published at https://username.github.io/repository-name/"</li>
+        <li>Copy your sites URL and paste to your README.md file</li>
+    </ol>    
     <hr>
 
 <h2>Credits</h2>
