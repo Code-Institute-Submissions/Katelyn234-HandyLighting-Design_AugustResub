@@ -5,6 +5,8 @@
 View deployed site here: |[Handy Lighting Design](https://katelyn234.github.io/HandyLighting-Design/)|
 </p>
 
+![Demo Screenshot](assets/Wireframes/demo-screenshot.png)
+
 <h2>UX</h2>
 <h3>User Stories</h3>
 <p>As a potential employer I expect to be able to access details of Eoghan's previous work and his contact information easily. </p>
@@ -55,9 +57,11 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 
 <h3>Existing Features</h3>
 	<ul>
-		<li>This site features a Navbar that can be used to easily navigate the site, this Navbar is styled to remain at the top of the viewport throughout all pages of the site, ensuring easy access to it at all times. Highlight content is also pinned in the footer which appears on the bottom of the screen should the user not find what they are looking for before they get to the bottom of the site</li>
-		<li>The Index.html page is divided into sections featuring highlighted information about Eoghan's work. This includes a showreel section where examples of work done are given, along with the corresponding video. There is also a Recent Experience section for those interested in seeing more/varied information (I.E which production companies Eoghan worked with and when) and to ensure there is more information accessible there is a downloadable PDF of Eoghan's current resume.</li>
-		<li>This site features a masonry gallery of at work stills, this feature is present to create an "image" for the portfolio</li>
+		<li>This site features a Navbar that can be used to easily navigate the site, this Navbar is styled to remain at the top of the viewport throughout all pages of the site, ensuring easy access to it at all times. Highlight content is also pinned in the footer which appears on the bottom of the screen should the user not find what they are looking for before they get to the bottom of the site.</li>
+		<li>The Index.html page is divided into sections featuring highlighted information about Eoghan's work. This includes a showreel section where examples of work done are given, along with the corresponding videos. There is also a Recent Experience section for those interested in seeing more/varied information (I.E which production companies Eoghan worked with and when) and to ensure there is more information accessible there is a downloadable PDF of Eoghan's current resume.</li>
+		<li>This site features a masonry gallery of at work stills, this feature is present to create an "image" for the portfolio.</li>
+        <li>This site also features a contact page, hosting a contact form which users can submit to reach out to Eoghan directly from the site.</li>
+        <li>Links to all social medias are styled to be prominent and a further link to encourage social media interaction included in the footer</li> 
 	</ul>
 
 <h3>Future Features</h3>
@@ -87,8 +91,8 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
     <hr>
 
 <h2>Deployment</h2>
-    <p>This site was developed using <a href="http://gitpod.io">GitPod</a> and commited and pushed to<a href="https://github.com/">GitHub using the Git Terminal in GitPod.</p>
-<h3>To deploy this page to GitHub the following steps were followed: 
+    <p>This site was developed using <a href="http://gitpod.io">GitPod</a> and commited and pushed to <a href="https://github.com/">GitHub</a> using the Git Terminal in GitPod.</p>
+<h3>To deploy this page to GitHub the below steps were followed:</h3> 
     <ol>
         <li>On your GitHub repository, click on "Settings" tab.</li>
         <li>Go to the "Pages" tab on the left-hand sidebar.</li>
@@ -96,8 +100,22 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
         <li>Click "Save"</li>
         <li>The page will update and show: "Your site is ready to be published at https://username.github.io/repository-name/"</li>
         <li>Copy your sites URL and paste to your README.md file</li>
+    </ol>   
+
+<h3>How to run this project locally:</h3>
+<h4>In order to clone this project from <a href="https://github.com/">GitHub</a> you'll need:</h4>
+    <ol>
+        <li>A <a href="https://github.com/">GitHub</a> account</li>
+        <li><a href="https://www.google.com/chrome/?brand=IBEF&gclsrc=aw.ds&gclid=CjwKCAjwgISIBhBfEiwALE19ScntT9AfO_NT-rdhELelak9BG26KQKCu-ChyVr4bxzWHbfBnbOhPyhoC9f4QAvD_BwE">Chrome Browser</a></li>
     </ol>    
     <hr>
+<h3>How to run this project locally:</h3>
+<h4>In order to clone this project from <a href="https://github.com/">GitHub</a> you'll need:</h4>
+    <ol>
+        <li>A <a href="https://github.com/">GitHub</a> account</li>
+        <li><a href="https://www.google.com/chrome/?brand=IBEF&gclsrc=aw.ds&gclid=CjwKCAjwgISIBhBfEiwALE19ScntT9AfO_NT-rdhELelak9BG26KQKCu-ChyVr4bxzWHbfBnbOhPyhoC9f4QAvD_BwE">Chrome Browser</a></li>
+    </ol>    
+    <hr>    
 
 <h2>Credits</h2>
     <h3>Photo Credits</h3>
@@ -117,12 +135,12 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
 
 <h3>Video Credits</h3>
         <ul>
-            <li><a href="https://www.youtube.com/watch?v=QHnO31wuns0&t=1s">Repak Ireland Commerical</a>courtesy of Stori Creative Production Company</li>
-            <li><a href="https://www.youtube.com/watch?v=UJY5IoMKj6g&t=3s">Rudimental's Straight From The Heart</a>courtesy of Taller Stories Production Company</li>
-            <li><a href="https://www.youtube.com/watch?v=wN5a0DvokjU">Robert Grace's Self</a>courtesy of Taller Stories Production Company</li>
-            <li><a href="https://www.youtube.com/watch?v=bzcC7WWbOpU&t=7s">Microsoft Interview with David Pollard</a>courtesy of Taller Stories Production Company</li>
-            <li><a href="https://www.youtube.com/watch?v=lXvYtzBRZWo">Microsoft Interview with Izzy's Wheels</a>courtesy of Taller Stories Production Company</li>
-            <li><a href="https://www.youtube.com/watch?v=-09W-f7UKfY">Supervalu sits down with David Gough</a>courtesy of Taller Stories Production Company</li>
+            <li><a href="https://www.youtube.com/watch?v=QHnO31wuns0&t=1s">Repak Ireland Commerical</a> courtesy of Stori Creative Production Company.</li>
+            <li><a href="https://www.youtube.com/watch?v=UJY5IoMKj6g&t=3s">Rudimental's Straight From The Heart</a> courtesy of Taller Stories Production Company.</li>
+            <li><a href="https://www.youtube.com/watch?v=wN5a0DvokjU">Robert Grace's Self</a> courtesy of Taller Stories Production Company.</li>
+            <li><a href="https://www.youtube.com/watch?v=bzcC7WWbOpU&t=7s">Microsoft Interview with David Pollard</a> courtesy of Taller Stories Production Company.</li>
+            <li><a href="https://www.youtube.com/watch?v=lXvYtzBRZWo">Microsoft Interview with Izzy's Wheels</a> courtesy of Taller Stories Production Company.</li>
+            <li><a href="https://www.youtube.com/watch?v=-09W-f7UKfY">Supervalu sits down with David Gough</a> courtesy of Taller Stories Production Company.</li>
         </ul>
 
 <h3>Code Credits</h3>
