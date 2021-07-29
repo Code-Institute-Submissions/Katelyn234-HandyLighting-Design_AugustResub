@@ -114,10 +114,15 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
     <ol>
         <li>A <a href="https://github.com/">GitHub</a> account</li>
         <li><a href="https://www.google.com/chrome/?brand=IBEF&gclsrc=aw.ds&gclid=CjwKCAjwgISIBhBfEiwALE19ScntT9AfO_NT-rdhELelak9BG26KQKCu-ChyVr4bxzWHbfBnbOhPyhoC9f4QAvD_BwE">Chrome Browser</a></li>
-    </ol>    
+    </ol>
+<h4></h4>        
     <hr>    
 
 <h2>Credits</h2>
+<h3>Content Credits</h3>
+    <ul>
+    <li>All content was written by Eoghan Hand and Katelyn Galvin</li>
+    </ul>
     <h3>Photo Credits</h3>
         <ul>
             <li>"white-photo-studio.jpeg" image downloaded from <a href="https://www.shutterstock.com/image-photo/interior-modern-photo-studio-chair-professional-793002787">Shutterstock.</a></li>
@@ -156,5 +161,5 @@ The Contact Page aims to encourage people to engage with Eoghan by pitching thei
     </ul>    
 
 <h2>Notes</h2>
-    <p>I'd like to note that at the time of submission it is noticed that image "rollycamerawork.jpeg" in the gallery has an inherent border from the original image, time permitting an original copy of the image without the border would have been requested and replaced this image.</p>
+    
 <hr>
